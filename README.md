@@ -5,3 +5,5 @@ well by making them virtually interactive through augmented reality.The book inc
 size of virtual 3d object , control animation, and also it
 provides teacher handwritten notes for reference.
 C#,UnityEngine,Vuforia SDK
+**Since file size is 720MB hence sharin g the link to download zip folder for unity files**
+https://drive.google.com/drive/folders/1DkSsAF1GakY6OE-HXaQC3COSa-PgIf7g?usp=sharing
